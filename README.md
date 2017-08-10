@@ -17,4 +17,4 @@ Python has some great libraries for Data Science and it's really easy to get sta
 
 I tried a bunch of different things this time. From extracting information from strings to plotting various graphs.
 
-<a href="http://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html">This guy</a> had some interesting insights,which helped me analyse the problem better.
+<a href="http://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html">This guy</a> had some interesting insights,  which helped me analyse the problem better.
